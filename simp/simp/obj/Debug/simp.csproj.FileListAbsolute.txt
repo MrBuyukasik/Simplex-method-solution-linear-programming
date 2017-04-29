@@ -1,0 +1,12 @@
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\bin\Debug\simp.exe.config
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\bin\Debug\simp.exe
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\bin\Debug\simp.pdb
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\bin\Debug\MetroFramework.Design.dll
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\bin\Debug\MetroFramework.dll
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\bin\Debug\MetroFramework.Fonts.dll
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\obj\Debug\simp.csprojResolveAssemblyReference.cache
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\obj\Debug\simp.Form1.resources
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\obj\Debug\simp.Properties.Resources.resources
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\obj\Debug\simp.csproj.GenerateResource.Cache
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\obj\Debug\simp.exe
+c:\users\bige\documents\visual studio 2013\Projects\simp\simp\obj\Debug\simp.pdb
